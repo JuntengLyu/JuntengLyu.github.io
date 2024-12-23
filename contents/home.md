@@ -13,5 +13,5 @@ jtlv@stu.pku.edu.cn
 the Formation and Evolution of Continental Crust.
 
 #### Hobbies
-Games: Pokemon, Zelda......
+Games: Pokemon, Zelda, LOL......\
 Sports: Swimming
