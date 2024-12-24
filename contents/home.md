@@ -10,8 +10,5 @@ jtlv@stu.pku.edu.cn
 <strong>-</strong> B.E., Resource Exploration Engineering, China University of Geosciences (Wuhan), 2020—2024. Supervisor: Prof. Dr. <strong>Xin Chen</strong>. [[Homepage]](https://grzy.cug.edu.cn/chenxin1/zh_CN/)
 
 #### Research Interests
-the Formation and Evolution of Continental Crust.
-
-#### Hobbies
-Games: Pokemon, Zelda, LOL......\
-Sports: Swimming
+- the Formation and Evolution of Continental Crust.
+- Application of Machine Learning
