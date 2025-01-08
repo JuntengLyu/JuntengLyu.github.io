@@ -1,5 +1,5 @@
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-white?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=8pqM0hAAAAAJ&hl=en&oi=ao)
-[![ResearchGate](https://img.shields.io/badge/%E2%80%8CResearchGate-white?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Junteng-Lv)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-%234285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=8pqM0hAAAAAJ&hl=en&oi=ao)
+[![ResearchGate](https://img.shields.io/badge/%E2%80%8CResearchGate-%2300CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Junteng-Lv)
 
   I'm currently pursuing my PhD in geochemistry at Peking University, where my research focuses on understanding the formation and evolution of continental crust. I have a deep interest in unraveling the processes that have shaped our planet over geological timescales. Beyond my research, I am passionate about science communication, and I dedicate significant time to engaging in outreach activities, both in person and through writing popular science articles. I believe that making scientific knowledge accessible to the public is crucial for fostering curiosity and inspiring future generations to explore the wonders of our world.
 
