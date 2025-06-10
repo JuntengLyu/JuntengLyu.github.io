@@ -1,4 +1,4 @@
 
 - <strong>Junteng Lyu*</strong>, Ziyi Guo, and Ming Tang. Compositional evolution of the Archean emerged crust revisited using robust machine learning constraints. <strong>Chemical Geology</strong>, under review.
 
-- <strong>Junteng Lv</strong>, Xin Chen*, Junsheng Jiang, Hans-Peter Schertl, Liang Cao, and Xiaojia Jiang. Chemical and boron isotope composition of multiple generations of tourmaline from the Nassarawa lithium-rich pegmatites, Nigeria: Implications for the mechanism of lithium enrichment. <strong>LITHOS</strong>, 2025. [[Paper]](https://doi.org/10.1016/j.lithos.2024.107936) [[PDF]](https://juntenglv.github.io/Paperpdf/Paper1.pdf)
+- <strong>Junteng Lv</strong>, Xin Chen*, Junsheng Jiang*, Hans-Peter Schertl, Liang Cao, and Xiaojia Jiang. Chemical and boron isotope composition of multiple generations of tourmaline from the Nassarawa lithium-rich pegmatites, Nigeria: Implications for the mechanism of lithium enrichment. <strong>LITHOS</strong>, 2025. [[Paper]](https://doi.org/10.1016/j.lithos.2024.107936) [[PDF]](https://juntenglv.github.io/Paperpdf/Paper1.pdf)
