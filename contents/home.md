@@ -12,4 +12,3 @@ jtlv@stu.pku.edu.cn
 
 #### Research Interests
 - the Formation and Evolution of the Continental Crust.
-- Application of Machine Learning
